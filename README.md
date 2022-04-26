@@ -1,12 +1,11 @@
 # SistemaMoedaEstudantil
-Projeto referente ao Laboratório 03 e Laboratório 04.
+Projeto referente ao Laboratório 03 e Laboratório 04. Através desse projeto, nós desenvolveremos um Sistema de distribuição de moedas estudantis.
+
 
 ## GRUPO:
 ### Edson Júnior Campolina Silva
 ### João Pedro Mayrink de Jesus
 ### Rodolfo Rocha Rodrigues
-
-Através desse projeto, nós desenvolveremos um Sistema de distribuição de moedas estudantis.
 
 # Histórias de usuário
 
